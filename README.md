@@ -1,4 +1,4 @@
-# Movie Rating Predictor 2000
+# Movie Rating Predictor
 
 Have you ever had a genius idea for a movie or dreamt about becoming the next Spielberg, but don’t know if your ideas are good enough? We have. So, we decided, by using the power of machine learning and analysis, to create a system that can predict user ratings for a movie of your choice.
 
